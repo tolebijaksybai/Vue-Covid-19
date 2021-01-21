@@ -1,6 +1,7 @@
 # vue-covid
 
-> Vue dashboard for Covid-19
+> Vue dashboard for Covid-19 
+> Vue, Vuex, Vue Router, Chart.js, Firebase, Vuetify, Html, Css, JavaScript
 
 ## Build Setup
 
