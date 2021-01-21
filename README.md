@@ -16,6 +16,17 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+
+# Commands Vue project Install
+vue i -g vue-cli
+vue init webpack vue-covid
+cd vue-covid
+
+npm i axios vue-axios vuex --save-dev
+npm i vuetify --save
+npm sass sass-loader fibers deepmerge -D
+npm i @mdi/font typeface-roboto --save
+npm i vue-chartjs chart.js --save
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
